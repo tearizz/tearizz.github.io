@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Draft - 分类 - 捶打石头的第101次</title>
+    <link>http://localhost:1313/categories/draft/</link>
+    <description>Draft - 分类 | 捶打石头的第101次</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 11 Jul 2024 22:28:15 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>博客搭建03 Archives页消失问题</title>
+  <link>http://localhost:1313/posts/720df59/</link>
+  <pubDate>Thu, 11 Jul 2024 22:28:15 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>http://localhost:1313/posts/720df59/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
