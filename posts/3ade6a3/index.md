@@ -154,6 +154,6 @@ debug1: Exit status 1
 
 ---
 
-> 作者:   
+> 作者: teariz  
 > URL: http://localhost:1313/posts/3ade6a3/  
 

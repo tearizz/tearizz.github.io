@@ -24,6 +24,6 @@
 
 ---
 
-> 作者:   
+> 作者: teariz  
 > URL: http://localhost:1313/posts/720df59/  
 
