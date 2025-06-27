@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS - 标签 - 捶打石头的101次</title>
+    <link>http://localhost:1313/tags/os/</link>
+    <description>捶打石头的101次</description>
+    <generator>Hugo 0.147.9 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 09 Jul 2024 17:38:35 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>换行符与回车键</title>
+      <link>http://localhost:1313/posts/bcf0326/</link>
+      <pubDate>Tue, 09 Jul 2024 17:38:35 +0800</pubDate>
+      <guid>http://localhost:1313/posts/bcf0326/</guid>
+      <category domain="http://localhost:1313/categories/os/">OS</category>
+      <description>换行符与回车键</description>
+    </item>
+  </channel>
+</rss>

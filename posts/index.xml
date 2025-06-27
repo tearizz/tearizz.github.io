@@ -49,12 +49,12 @@
       <description>Blog02 - CodeBlock and Language</description>
     </item>
     <item>
-      <title>换行与回车</title>
+      <title>换行符与回车键</title>
       <link>http://localhost:1313/posts/bcf0326/</link>
       <pubDate>Tue, 09 Jul 2024 17:38:35 +0800</pubDate>
       <guid>http://localhost:1313/posts/bcf0326/</guid>
-      <category domain="http://localhost:1313/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/">操作系统</category>
-      <description>换行与回车</description>
+      <category domain="http://localhost:1313/categories/os/">OS</category>
+      <description>换行符与回车键</description>
     </item>
     <item>
       <title>blog01 - Infrastructure</title>
