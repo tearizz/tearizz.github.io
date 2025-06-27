@@ -1,15 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GoLang - 分类 - 捶打石头的101次</title>
+    <title>Golang - 分类 - 捶打石头的101次</title>
     <link>http://localhost:1313/categories/golang/</link>
-    <description>GoLang - 分类 | 捶打石头的101次</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 01 Sep 2024 21:17:22 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/golang/" rel="self" type="application/rss+xml" /><item>
-  <title>RestfulAPI</title>
-  <link>http://localhost:1313/posts/319de9c/</link>
-  <pubDate>Sun, 01 Sep 2024 21:17:22 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/319de9c/</guid>
-  <description><![CDATA[]]></description>
-</item>
-</channel>
+    <description>捶打石头的101次</description>
+    <generator>Hugo 0.147.9 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 Sep 2024 21:17:22 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REST API in Go</title>
+      <link>http://localhost:1313/posts/319de9c/</link>
+      <pubDate>Sun, 01 Sep 2024 21:17:22 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
+      <guid>http://localhost:1313/posts/319de9c/</guid>
+      <category domain="http://localhost:1313/categories/golang/">Golang</category>
+      <description>REST API in Go</description>
+    </item>
+  </channel>
 </rss>

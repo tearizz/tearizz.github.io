@@ -1,63 +1,68 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>所有文章 - 捶打石头的101次</title>
     <link>http://localhost:1313/posts/</link>
-    <description>所有文章 | 捶打石头的101次</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 08 Nov 2024 15:24:58 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>Pull与合并代码</title>
-  <link>http://localhost:1313/posts/0663fe4/</link>
-  <pubDate>Fri, 08 Nov 2024 15:24:58 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/0663fe4/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>ssh连接不上github的问题</title>
-  <link>http://localhost:1313/posts/3ade6a3/</link>
-  <pubDate>Mon, 02 Sep 2024 00:00:59 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/3ade6a3/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>RestfulAPI</title>
-  <link>http://localhost:1313/posts/319de9c/</link>
-  <pubDate>Sun, 01 Sep 2024 21:17:22 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/319de9c/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>博客搭建03-Archives页消失问题</title>
-  <link>http://localhost:1313/posts/720df59/</link>
-  <pubDate>Thu, 11 Jul 2024 22:28:15 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/720df59/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>博客搭建02-代码块&amp;中英文</title>
-  <link>http://localhost:1313/posts/dbd3dea/</link>
-  <pubDate>Thu, 11 Jul 2024 13:18:39 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/dbd3dea/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>换行与回车</title>
-  <link>http://localhost:1313/posts/bcf0326/</link>
-  <pubDate>Tue, 09 Jul 2024 17:38:35 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/bcf0326/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>博客搭建01-hugo&amp;FixIt</title>
-  <link>http://localhost:1313/posts/96e3e7f/</link>
-  <pubDate>Tue, 02 Jul 2024 13:25:01 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/96e3e7f/</guid>
-  <description><![CDATA[]]></description>
-</item>
-</channel>
+    <description>捶打石头的101次</description>
+    <generator>Hugo 0.147.9 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 08 Nov 2024 15:24:58 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git pull and merge</title>
+      <link>http://localhost:1313/posts/0663fe4/</link>
+      <pubDate>Fri, 08 Nov 2024 15:24:58 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
+      <guid>http://localhost:1313/posts/0663fe4/</guid>
+      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <description>git pull and merge</description>
+    </item>
+    <item>
+      <title>SSH 连接不上 Github</title>
+      <link>http://localhost:1313/posts/3ade6a3/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:59 +0800</pubDate>
+      <guid>http://localhost:1313/posts/3ade6a3/</guid>
+      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <description>SSH 连接不上 Github</description>
+    </item>
+    <item>
+      <title>REST API in Go</title>
+      <link>http://localhost:1313/posts/319de9c/</link>
+      <pubDate>Sun, 01 Sep 2024 21:17:22 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
+      <guid>http://localhost:1313/posts/319de9c/</guid>
+      <category domain="http://localhost:1313/categories/golang/">Golang</category>
+      <description>REST API in Go</description>
+    </item>
+    <item>
+      <title>博客搭建03-Archives页消失问题</title>
+      <link>http://localhost:1313/posts/720df59/</link>
+      <pubDate>Thu, 11 Jul 2024 22:28:15 +0800</pubDate>
+      <guid>http://localhost:1313/posts/720df59/</guid>
+      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
+      <description>博客搭建03-Archives页消失问题</description>
+    </item>
+    <item>
+      <title>博客搭建02-代码块&amp;中英文</title>
+      <link>http://localhost:1313/posts/dbd3dea/</link>
+      <pubDate>Thu, 11 Jul 2024 13:18:39 +0800</pubDate>
+      <guid>http://localhost:1313/posts/dbd3dea/</guid>
+      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
+      <description>博客搭建02-代码块&amp;中英文</description>
+    </item>
+    <item>
+      <title>换行与回车</title>
+      <link>http://localhost:1313/posts/bcf0326/</link>
+      <pubDate>Tue, 09 Jul 2024 17:38:35 +0800</pubDate>
+      <guid>http://localhost:1313/posts/bcf0326/</guid>
+      <category domain="http://localhost:1313/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/">操作系统</category>
+      <description>换行与回车</description>
+    </item>
+    <item>
+      <title>博客搭建01-hugo&amp;FixIt</title>
+      <link>http://localhost:1313/posts/96e3e7f/</link>
+      <pubDate>Tue, 02 Jul 2024 13:25:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/96e3e7f/</guid>
+      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
+      <description>博客搭建01-hugo&amp;FixIt</description>
+    </item>
+  </channel>
 </rss>

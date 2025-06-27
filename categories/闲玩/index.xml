@@ -1,31 +1,28 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>闲玩 - 分类 - 捶打石头的101次</title>
     <link>http://localhost:1313/categories/%E9%97%B2%E7%8E%A9/</link>
-    <description>闲玩 - 分类 | 捶打石头的101次</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 11 Jul 2024 22:28:15 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E9%97%B2%E7%8E%A9/" rel="self" type="application/rss+xml" /><item>
-  <title>博客搭建03-Archives页消失问题</title>
-  <link>http://localhost:1313/posts/720df59/</link>
-  <pubDate>Thu, 11 Jul 2024 22:28:15 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/720df59/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>博客搭建02-代码块&amp;中英文</title>
-  <link>http://localhost:1313/posts/dbd3dea/</link>
-  <pubDate>Thu, 11 Jul 2024 13:18:39 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/dbd3dea/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>博客搭建01-hugo&amp;FixIt</title>
-  <link>http://localhost:1313/posts/96e3e7f/</link>
-  <pubDate>Tue, 02 Jul 2024 13:25:01 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/96e3e7f/</guid>
-  <description><![CDATA[]]></description>
-</item>
-</channel>
+    <description>捶打石头的101次</description>
+    <generator>Hugo 0.147.9 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 11 Jul 2024 13:18:39 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E9%97%B2%E7%8E%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客搭建02-代码块&amp;中英文</title>
+      <link>http://localhost:1313/posts/dbd3dea/</link>
+      <pubDate>Thu, 11 Jul 2024 13:18:39 +0800</pubDate>
+      <guid>http://localhost:1313/posts/dbd3dea/</guid>
+      <category domain="http://localhost:1313/categories/%E9%97%B2%E7%8E%A9/">闲玩</category>
+      <description>博客搭建02-代码块&amp;中英文</description>
+    </item>
+    <item>
+      <title>博客搭建01-hugo&amp;FixIt</title>
+      <link>http://localhost:1313/posts/96e3e7f/</link>
+      <pubDate>Tue, 02 Jul 2024 13:25:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/96e3e7f/</guid>
+      <category domain="http://localhost:1313/categories/%E9%97%B2%E7%8E%A9/">闲玩</category>
+      <description>博客搭建01-hugo&amp;FixIt</description>
+    </item>
+  </channel>
 </rss>

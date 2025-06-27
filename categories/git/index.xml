@@ -1,23 +1,28 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git - 分类 - 捶打石头的101次</title>
     <link>http://localhost:1313/categories/git/</link>
-    <description>Git - 分类 | 捶打石头的101次</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 08 Nov 2024 15:24:58 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/git/" rel="self" type="application/rss+xml" /><item>
-  <title>Pull与合并代码</title>
-  <link>http://localhost:1313/posts/0663fe4/</link>
-  <pubDate>Fri, 08 Nov 2024 15:24:58 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/0663fe4/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>ssh连接不上github的问题</title>
-  <link>http://localhost:1313/posts/3ade6a3/</link>
-  <pubDate>Mon, 02 Sep 2024 00:00:59 &#43;0800</pubDate>
-  <author>作者</author>
-  <guid>http://localhost:1313/posts/3ade6a3/</guid>
-  <description><![CDATA[]]></description>
-</item>
-</channel>
+    <description>捶打石头的101次</description>
+    <generator>Hugo 0.147.9 &amp; FixIt v0.3.21-b2e6f70a</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 08 Nov 2024 15:24:58 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git pull and merge</title>
+      <link>http://localhost:1313/posts/0663fe4/</link>
+      <pubDate>Fri, 08 Nov 2024 15:24:58 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
+      <guid>http://localhost:1313/posts/0663fe4/</guid>
+      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <description>git pull and merge</description>
+    </item>
+    <item>
+      <title>SSH 连接不上 Github</title>
+      <link>http://localhost:1313/posts/3ade6a3/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:59 +0800</pubDate>
+      <guid>http://localhost:1313/posts/3ade6a3/</guid>
+      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <description>SSH 连接不上 Github</description>
+    </item>
+  </channel>
 </rss>

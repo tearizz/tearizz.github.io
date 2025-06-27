@@ -1,21 +1,21 @@
-# 博客搭建01-Hugo&amp;FixIt
+# 博客搭建01-Hugo&FixIt
 
 
-&lt;!--more--&gt;
+<!--more-->
 
-2024/6/30 用了[hugo](https://gohugo.io/getting-started/quick-start/)&#43;[FixIt](https://fixit.lruihao.cn/zh-cn/documentation/getting-started/quick-start/)&#43;[github](https://github.com/tearizz/tearizz.github.io/tree/main)搭建了自己的博客网站，记录如下：
+2024/6/30 用了[hugo](https://gohugo.io/getting-started/quick-start/)+[FixIt](https://fixit.lruihao.cn/zh-cn/documentation/getting-started/quick-start/)+[github](https://github.com/tearizz/tearizz.github.io/tree/main)搭建了自己的博客网站，记录如下：
 
-## Hugo&#43;FixIt (Linux)
+## Hugo+FixIt (Linux)
 
-### 资料 &amp; 方法 &amp; 步骤
+### 资料 & 方法 & 步骤
 
 - [Quick start | Hugo (gohugo.io)](https://gohugo.io/getting-started/quick-start/)
 - [Linux | Hugo (gohugo.io)](https://gohugo.io/installation/linux/)
 
 
-### 流程 &amp; 注意事项
+### 流程 & 注意事项
 
-&gt; *安装 Hugo &amp; Git -- 创建Site -- 添加内容 -- 配置Site -- 发布*  
+> *安装 Hugo & Git -- 创建Site -- 添加内容 -- 配置Site -- 发布*  
 
 **安装 Hugo :**  
 
@@ -23,32 +23,32 @@
 
 **创建 Site：**
 
-   - 创建hugo项目 ` hugo new site &lt;site&gt;`
+   - 创建hugo项目 ` hugo new site <site>`
      hemes文件夹中下载主题，虽然建议用git submodule 但目前实操时发现在上传public文件时module也会上传，暂时不知如何处理，故现用git clone
-   - 配置主题 `echo &#34;theme=&#39;&lt;theme&gt;&#39; &gt;&gt; hugo.toml &#34;`（项目的hugo.toml，而非主题的hugo.toml）
+   - 配置主题 `echo "theme='<theme>' >> hugo.toml "`（项目的hugo.toml，而非主题的hugo.toml）
 
 **添加内容：**    
 
--  `hugo new content content/posts/&lt;file.md&gt;` 在content/posts/ 下新建文件&lt;file.md&gt;
+-  `hugo new content content/posts/<file.md>` 在content/posts/ 下新建文件<file.md>
 - 默认`draft = true`， 建议不要更改draft值，在启动服务时附加参数`--buildDrafts` / `-D`
 
 **配置 Site：**
    - 在项目根目录中的`hugo.toml` 配置 `baseURL`,`languageCode`,`title`,`theme` 
    - 同时主题配置中若包含URL、语言等信息也需配置,路径为`themes/hugo.toml` 
-   - 服务`hugo serve -D` / `hugo --theme=&lt;Theme&gt; --baseURL=&lt;URL&gt; -D`
+   - 服务`hugo serve -D` / `hugo --theme=<Theme> --baseURL=<URL> -D`
    - 项目启动后在根目录生成 `public` 文件夹，将public上传到github仓库
 
 
 
 ## Github
 
-### 流程 &amp; 实现 &amp; 注意事项
+### 流程 & 实现 & 注意事项
 
-&gt; *新建github仓库 -- 上传public文件夹*
+> *新建github仓库 -- 上传public文件夹*
 
 **新建github仓库：** 
 
-- 项目名一定要是：&#34;用户名.github.io&#34;
+- 项目名一定要是："用户名.github.io"
   上传public文件夹：
 - 只上传public文件夹内容，即先`cd public/`
 

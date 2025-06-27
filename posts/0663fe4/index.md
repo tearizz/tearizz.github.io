@@ -1,7 +1,7 @@
-# Pull与合并代码
+# Git Pull and Merge
 
 
-&lt;!--more--&gt;
+<!--more-->
 # pull 新代码与合并冲突
 
 ## 问题
@@ -17,11 +17,11 @@
 
 ## 注意
 1. 最好每次敲完代码都commit上去，就算没MR，提交到服务器上也不会导致本地代码消失
-2. 如果真的存在很多冲突且最新的commit已经push的话，完全可以重新clone项目，下载自己的分支，如gpgsm分支：&#39;git branch gpgsm origin/gpgsm&#39;，再pull下来main分支`git pull origin main`，这样也会减少很多麻烦
+2. 如果真的存在很多冲突且最新的commit已经push的话，完全可以重新clone项目，下载自己的分支，如gpgsm分支：'git branch gpgsm origin/gpgsm'，再pull下来main分支`git pull origin main`，这样也会减少很多麻烦
 
 
 ---
 
-> 作者: teariz  
+> 作者: tearizz  
 > URL: http://localhost:1313/posts/0663fe4/  
 

@@ -1,7 +1,7 @@
 # 换行与回车
 
 
-&lt;!--more--&gt;
+<!--more-->
 # 换行与回车
 
 在了解git commit文件时，发现{content}中的不同字段件使用`0a`分隔，于是查了一下`\u000a`，发现是换行符`\n`（new line）的意思。
@@ -17,33 +17,33 @@
 ## 演变
 在计算机发明后，这两个概念也被迁移到计算机上。但当时存储器很贵，两个字符被认为浪费，有些科学家认为一个就足以，于是产生了分歧。
 ## 区别与问题
-- 在unix系统中，每行结尾只有”换行“，即&#34;\\n&#34;；
+- 在unix系统中，每行结尾只有”换行“，即"\\n"；
 - 在Windows系统中，每行结尾是”换行回车“，即”\\n\\r“;
 - 在 Mac系统中，每行结尾是”回车“。
 但问题时，Unix/Mac系统下的文件在Windows中打开时，所有文字会变成一行；而Windows里的文件在Unix/Mac下打开的花，在每行结尾可能会多出一个^M符号
 
-且在编程中，以Windows C&#43;&#43;为例
+且在编程中，以Windows C++为例
 如果只用回车“\\r”（return），就只是回到本行行首，导致本行以前的输出被覆盖掉
-```C&#43;&#43;
+```C++
 int main(){
-    cout&lt;&lt;&#34;hahaha&#34;&lt;&lt;&#34;\r&#34;&lt;&lt;&#34;xixi&#34;;
+    cout<<"hahaha"<<"\r"<<"xixi";
 }
 
-&gt; xixi
+> xixi
 ```
-使用&#34;\\n&#34;（newline）才是回车&#43;换行，把光标先移动到行首，再换到下一样
-```c&#43;&#43;
+使用"\\n"（newline）才是回车+换行，把光标先移动到行首，再换到下一样
+```c++
 int main(){
-    cout&lt;&lt;&#34;haha&#34;&lt;&lt;&#34;\n&#34;&lt;&lt;&#34;xixi&#34;;
+    cout<<"haha"<<"\n"<<"xixi";
 }
-&gt; haha
-&gt; xixi
+> haha
+> xixi
 ```
 
 所以对于回车与换行，在不同的语言、不同的环境中，对其的支持与定义也各不相同
 
 参考资料：
-&gt;[回车&#34;（carriage return）和&#34;换行&#34;（line feed）的区别和来历-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/article/239409)
+>[回车"（carriage return）和"换行"（line feed）的区别和来历-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/article/239409)
 
 
 ---

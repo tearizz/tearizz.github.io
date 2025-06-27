@@ -1,7 +1,7 @@
 # 博客搭建03-Archives页消失问题
 
 
-&lt;!--more--&gt;
+<!--more-->
 
 
 ## 问题
@@ -15,7 +15,7 @@
 
 ## 解决问题
 
-最后在github中提问了作者才解决问题[Archives 页面不存在 · hugo-fixit · Discussion #455 (github.com)](https://github.com/orgs/hugo-fixit/discussions/455)，目前导致问题的真正原因是：hugo项目的配置文件`&lt;project&gt;/hugo.toml`会屏蔽掉主题内的配置文件`FixIt/hugo.toml`，即只有项目中的配置文件`hugo.html`才产生作用。
+最后在github中提问了作者才解决问题[Archives 页面不存在 · hugo-fixit · Discussion #455 (github.com)](https://github.com/orgs/hugo-fixit/discussions/455)，目前导致问题的真正原因是：hugo项目的配置文件`<project>/hugo.toml`会屏蔽掉主题内的配置文件`FixIt/hugo.toml`，即只有项目中的配置文件`hugo.html`才产生作用。
 
 ## 反思
 
