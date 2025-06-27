@@ -1,4 +1,4 @@
-# Blog02 - CodeBlock and Language
+# Blog 02 - CodeBlock and Language
 
 
 <!--more-->
