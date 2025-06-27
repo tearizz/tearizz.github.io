@@ -5,6 +5,7 @@
 
 2024/6/30 用了 [hugo](https://gohugo.io/getting-started/quick-start/)+[FixIt](https://fixit.lruihao.cn/zh-cn/documentation/getting-started/quick-start/)+[github](https://github.com/tearizz/tearizz.github.io/tree/main) 搭建了自己的博客网站，os 为 ubuntu24.04 ，记录如下：
 
+2025/6/27 重建了一下，增加一些配置，丰富了主页
 
 ## Hugo 
 **文档：**
