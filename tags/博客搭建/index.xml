@@ -24,13 +24,5 @@
       <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
       <description>博客搭建02-代码块&amp;中英文</description>
     </item>
-    <item>
-      <title>博客搭建01-hugo&amp;FixIt</title>
-      <link>http://localhost:1313/posts/96e3e7f/</link>
-      <pubDate>Tue, 02 Jul 2024 13:25:01 +0800</pubDate>
-      <guid>http://localhost:1313/posts/96e3e7f/</guid>
-      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
-      <description>博客搭建01-hugo&amp;FixIt</description>
-    </item>
   </channel>
 </rss>

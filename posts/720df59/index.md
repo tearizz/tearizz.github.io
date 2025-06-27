@@ -1,4 +1,4 @@
-# 博客搭建03-Archives页消失问题
+# Blog03 - Disappear of Archives Page
 
 
 <!--more-->
@@ -24,6 +24,6 @@
 
 ---
 
-> 作者: teariz  
+> 作者: tearizz  
 > URL: http://localhost:1313/posts/720df59/  
 

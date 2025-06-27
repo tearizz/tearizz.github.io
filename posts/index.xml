@@ -33,20 +33,20 @@
       <description>REST API in Go</description>
     </item>
     <item>
-      <title>博客搭建03-Archives页消失问题</title>
+      <title>Blog03 - disappear of Archives Page</title>
       <link>http://localhost:1313/posts/720df59/</link>
-      <pubDate>Thu, 11 Jul 2024 22:28:15 +0800</pubDate>
+      <pubDate>Thu, 11 Jul 2024 22:28:15 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
       <guid>http://localhost:1313/posts/720df59/</guid>
-      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
-      <description>博客搭建03-Archives页消失问题</description>
+      <category domain="http://localhost:1313/categories/%E4%B9%9F%E6%8A%93%E5%B0%8F%E5%85%94/">也抓小兔</category>
+      <description>Blog03 - disappear of Archives Page</description>
     </item>
     <item>
-      <title>博客搭建02-代码块&amp;中英文</title>
+      <title>Blog02 - CodeBlock and Language</title>
       <link>http://localhost:1313/posts/dbd3dea/</link>
       <pubDate>Thu, 11 Jul 2024 13:18:39 +0800</pubDate>
       <guid>http://localhost:1313/posts/dbd3dea/</guid>
-      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
-      <description>博客搭建02-代码块&amp;中英文</description>
+      <category domain="http://localhost:1313/categories/%E4%B9%9F%E6%8A%93%E5%B0%8F%E5%85%94/">也抓小兔</category>
+      <description>Blog02 - CodeBlock and Language</description>
     </item>
     <item>
       <title>换行与回车</title>
@@ -57,12 +57,12 @@
       <description>换行与回车</description>
     </item>
     <item>
-      <title>博客搭建01-hugo&amp;FixIt</title>
+      <title>blog01 - Infrastructure</title>
       <link>http://localhost:1313/posts/96e3e7f/</link>
-      <pubDate>Tue, 02 Jul 2024 13:25:01 +0800</pubDate>
+      <pubDate>Tue, 02 Jul 2024 13:25:01 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
       <guid>http://localhost:1313/posts/96e3e7f/</guid>
-      <category domain="http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/">开发工具</category>
-      <description>博客搭建01-hugo&amp;FixIt</description>
+      <category domain="http://localhost:1313/categories/%E4%B9%9F%E6%8A%93%E5%B0%8F%E5%85%94/">也抓小兔</category>
+      <description>blog01 - Infrastructure</description>
     </item>
   </channel>
 </rss>
