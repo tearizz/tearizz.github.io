@@ -1,4 +1,4 @@
-# SSH 连接不上 Github
+# 无法通过 SSH 连接 Github
 
 
 <!--more-->

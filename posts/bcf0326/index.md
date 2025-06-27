@@ -48,6 +48,6 @@ int main(){
 
 ---
 
-> 作者: teariz  
+> 作者: tearizz  
 > URL: http://localhost:1313/posts/bcf0326/  
 

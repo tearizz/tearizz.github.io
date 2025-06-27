@@ -17,12 +17,12 @@
       <description>git pull and merge</description>
     </item>
     <item>
-      <title>SSH 连接不上 Github</title>
+      <title>无法通过 SSH 连接 Github</title>
       <link>http://localhost:1313/posts/3ade6a3/</link>
-      <pubDate>Mon, 02 Sep 2024 00:00:59 +0800</pubDate>
+      <pubDate>Mon, 02 Sep 2024 00:00:59 +0800</pubDate><author>zhangtieyi19@gmail.com (tearizz)</author>
       <guid>http://localhost:1313/posts/3ade6a3/</guid>
       <category domain="http://localhost:1313/categories/git/">Git</category>
-      <description>SSH 连接不上 Github</description>
+      <description>无法通过 SSH 连接 Github</description>
     </item>
   </channel>
 </rss>
